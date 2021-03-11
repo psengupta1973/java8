@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import java.util.function.Consumer;
 import java.util.stream.Stream;
 
+/* a Java8 sample application*/
+
 public class CSVDataSet {
 
     String[] headers = null;
